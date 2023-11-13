@@ -9,6 +9,6 @@ A simple python program using tkinter and matplotlib to solve quadratic equation
 
 [![License badge](https://img.shields.io/github/license/neek8044/Quadratic-Equation-Solver)](https://github.com/Neek8044/Quadratic-Equation-Solver/blob/main/LICENSE)
 [![Code Size badge](https://img.shields.io/github/languages/code-size/dyslexia01/Animated-Quadratic-Equation-Solver)](https://github.com/dyslexia01/Animated-Quadratic-Equation-Solver/tree/animated/src)
-[![File Count badge](https://img.shields.io/github/directory-file-count/dyslexia01/Animated-Quadratic-Equation-Solver/src)](https://github.com/dyslexia01/Animated-Quadratic-Equation-Solver/tree/animated/src)
+[![File Count badge](https://img.shields.io/github/directory-file-count/dyslexia01/Animated-Quadratic-Equation-Solver/animated/src)](https://github.com/dyslexia01/Animated-Quadratic-Equation-Solver/tree/animated/src)
 [![Issues badge](https://img.shields.io/github/issues/neek8044/Quadratic-Equation-Solver)](https://github.com/Neek8044/Quadratic-Equation-Solver/issues)
 [![Pull Requests badge](https://img.shields.io/github/issues-pr/neek8044/Quadratic-Equation-Solver)](https://github.com/Neek8044/Quadratic-Equation-Solver/pulls)
