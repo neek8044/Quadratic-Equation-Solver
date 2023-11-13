@@ -1,5 +1,5 @@
-# Quadratic-Equation-Solver
-Tkinter python application to solve quadratic equations.
+# Animated-Quadratic-Equation-Solver
+A simple python program using tkinter and matplotlib to solve quadratic equations with live graph.
 
 [![License badge](https://img.shields.io/github/license/neek8044/Quadratic-Equation-Solver)](https://github.com/Neek8044/Quadratic-Equation-Solver/blob/main/LICENSE)
 [![Code Size badge](https://img.shields.io/github/languages/code-size/neek8044/Quadratic-Equation-Solver)](https://github.com/Neek8044/Quadratic-Equation-Solver/tree/main/src)
